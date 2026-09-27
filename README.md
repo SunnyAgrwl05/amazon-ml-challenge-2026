@@ -204,7 +204,7 @@ The result provided valuable experience in designing and evaluating large-scale 
 ### 🏅 Leaderboard Screenshot
 
 <p align="center">
-  <img src="assets/leaderboard.png" alt="Amazon ML Challenge Leaderboard" width="850">
+  <img src="assets/" alt="Amazon ML Challenge Leaderboard" width="850">
 </p>
 
 ---
