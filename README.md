@@ -6,11 +6,7 @@
 
 </p>
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
+--
 
 
 # 🧠 Amazon ML Challenge 2026 — Business Entity Resolution 📈 
