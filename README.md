@@ -5,9 +5,14 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Entity%20Resolution-green.svg)
 
 </p>
+----
+---
 
---
+## 📄 License
 
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for details.
 
 # 🧠 Amazon ML Challenge 2026 — Business Entity Resolution 📈 
 
