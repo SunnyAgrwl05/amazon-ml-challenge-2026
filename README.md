@@ -5,6 +5,23 @@
 </p>
 
 ##  Overview 📈
+<p align="center">
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Entity%20Resolution-green.svg)
+
+</p>
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for details.
+
+
 
 This project was developed for the **Amazon ML Challenge 2026**, focused on **Business Entity Resolution**.
 
