@@ -4,7 +4,7 @@
   <img src="assets/dashboard.png" alt="Amazon ML Challenge Dashboard" width="850">
 </p>
 
-## 🚀 Overview
+##  Overview
 
 This project was developed for the **Amazon ML Challenge 2026**, focused on **Business Entity Resolution**.
 
