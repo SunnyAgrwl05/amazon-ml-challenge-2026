@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Entity%20Resolution-green.svg)
 
 </p>
-----
+
 
 ## 📄 License
 
