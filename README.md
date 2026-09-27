@@ -148,41 +148,12 @@ amazon-ml-challenge-2026/
 ├── code/
 │   └── business_entity_resolution/
 │       ├── src/
-│       │   ├── blocking.py
-│       │   ├── blocking_diagnostic.py
-│       │   ├── blocking_validation.py
-│       │   ├── config.py
-│       │   ├── data.py
-│       │   ├── fast_infer.py
-│       │   ├── fast_val.py
-│       │   ├── features.py
-│       │   ├── finalize_matches.py
-│       │   ├── infer.py
-│       │   ├── metrics.py
-│       │   ├── model.py
-│       │   ├── text_utils.py
-│       │   ├── train.py
-│       │   ├── train_fast.py
-│       │   ├── train_fast2.py
-│       │   ├── train_quick.py
-│       │   ├── train_sampled.py
-│       │   └── ultra_val.py
-│       │
-│       └── src_backup/
+│       ├── src_backup/
+│       └── ...
 │
 ├── dataset/
-│   ├── train/
-│   ├── train_small/
-│   ├── small_run/
-│   └── test/
-│
 ├── output/
-│   ├── candidate_pairs.tsv
-│   └── matching_results.tsv
-│
 ├── utils/
-│   └── validate_submission.py
-│
 ├── Documentation_template.md
 ├── filter_script.py
 ├── precision_booster.py
@@ -219,7 +190,7 @@ The result provided valuable experience in designing and evaluating large-scale 
 ### 🏅 Leaderboard Screenshot
 
 <p align="center">
-  <img src="assets/" alt="Amazon ML Challenge Leaderboard" width="850">
+  <img src="assets/leaderboard.png" alt="Amazon ML Challenge Leaderboard" width="850">
 </p>
 
 ---
@@ -377,6 +348,6 @@ This project was developed as part of the Amazon ML Challenge 2026. The challeng
 
 ## 📌 Project Status
 
-**Completed** — Amazon ML Challenge 2026 Submission
-**Score:** 0.271555
+**Completed** — Amazon ML Challenge 2026 Submission  
+**Score:** 0.271555  
 **Rank:** 6551 / ~30,000+ participants
