@@ -1,0 +1,8 @@
+output/candidate_pairs.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/test/test_source1.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/test/test_source2.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/test/test_source3.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/train/train_source1.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/train/train_source2.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/train/train_source3.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/train/train_ground_truth.tsv filter=lfs diff=lfs merge=lfs -text

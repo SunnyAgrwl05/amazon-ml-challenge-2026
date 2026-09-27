@@ -1,0 +1,54 @@
+# Claude / local config
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Huge local training files
+output/train_blocking.sqlite
+output/train_sample_20k.npy
+
+# SQLite temporary files
+*.sqlite-shm
+*.sqlite-wal
+
+# Large generated SQLite databases
+code/output/*.sqlite
+output/*.sqlite
+output/*.npy
+
+# Local databases and large arrays
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.npy
+
+# Private/local configuration
+.claude/
+.env
+.env.*
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.npy
+.claude/
+.env
+.env.*
+
+# Huge local databases / arrays
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.npy
+
+# Claude / secrets
+.claude/
+.env
+.env.*
+
+# Too large for GitHub LFS
+upskillyfy-mind_submission.zip
